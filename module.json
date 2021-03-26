@@ -107,5 +107,8 @@
   ],
   "scripts": [
     "/scripts/qualities-nom.js"
-  ]
+  ],
+  "url": "https://github.com/Cpt-Igloo/nations-of-mankind-wfrp4e",
+  "manifest": "https://raw.githubusercontent.com/Cpt-Igloo/nations-of-mankind-wfrp4e/main/module.json",
+  "download": "https://github.com/Cpt-Igloo/nations-of-mankind-wfrp4e/archive/refs/heads/main.zip"
  }
