@@ -14,6 +14,12 @@ Manifest URL : `https://raw.githubusercontent.com/Cpt-Igloo/nations-of-mankind-w
 - An Empire, Bretonnia, Kislev, and Dog of War themed Bestiary
 - Customization rules for the Empire regiments and knightly orders
 
+## Legal Mentions
+Module Developers: Seseta, Noober
+Author: Big Boss. 
+Rules Development: Big Boss.
+Contributors: CurlyKaizer , DatOrkBoss, Dork117, EverXChosen, Papalugy, Seraphicus, Seseta, TMan, Noah "FBV" A.
+
 ## Thanks
 - Big Boss
 - Moo Man
