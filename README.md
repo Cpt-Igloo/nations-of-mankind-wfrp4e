@@ -24,3 +24,4 @@ Contributors: CurlyKaizer , DatOrkBoss, Dork117, EverXChosen, Papalugy, Seraphic
 - Big Boss
 - Moo Man
 - Vindico
+- Jagusti
