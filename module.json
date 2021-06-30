@@ -13,7 +13,7 @@
      }
    ],
    "systems": ["wfrp4e"],
-   "version": "0.1.1",
+   "version": "0.1.2",
    "minimumCoreVersion": "0.7.0",
    "compatibleCoreVersion":"0.7.9",
    "packs": [
@@ -24,7 +24,7 @@
       "entity": "Item",
       "module": "nations-of-mankind-wfrp4e",
       "system": "wfrp4e",
-      "tag": "trapping"
+      "tags": ["trapping"]
     },
     {
       "name": "careers-nom",
@@ -33,7 +33,7 @@
       "entity": "Item",
       "module": "nations-of-mankind-wfrp4e",
       "system": "wfrp4e",
-      "tag" : "career"
+      "tags" : ["career"]
     },
     {
       "name": "bestiary-nom",
@@ -66,7 +66,7 @@
         "entity": "Item",
         "system": "wfrp4e",
         "module": "nations-of-mankind-wfrp4e",
-        "tags": "spell"
+        "tags": ["spell"]
     },
     {
         "name": "talents-nom",
@@ -75,7 +75,7 @@
         "entity": "Item",
         "system": "wfrp4e",
         "module": "nations-of-mankind-wfrp4e",
-        "tags": "Talent"
+        "tags": ["talent"]
     },
     {
         "name": "veterantalents-nom",
@@ -84,7 +84,7 @@
         "entity": "Item",
         "system": "wfrp4e",
         "module": "nations-of-mankind-wfrp4e",
-        "tags": "Talent"
+        "tags": ["talent"]
     },
     {
         "name": "prayers-nom",
@@ -93,9 +93,7 @@
         "entity": "Item",
         "system": "wfrp4e",
         "module": "wfrp4e-core",
-        "tags": [
-            "prayer"
-        ]
+        "tags": ["prayer"]
     }
   ],
   "languages": [
