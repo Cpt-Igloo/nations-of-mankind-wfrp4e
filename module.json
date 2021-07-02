@@ -13,7 +13,7 @@
      }
    ],
    "systems": ["wfrp4e"],
-   "version": "0.1.2",
+   "version": "1.0.0",
    "minimumCoreVersion": "0.7.0",
    "compatibleCoreVersion":"0.7.9",
    "packs": [
@@ -104,7 +104,8 @@
     }
   ],
   "scripts": [
-    "/scripts/qualities-nom.js"
+    "/scripts/qualities-nom.js",
+    "/scripts/subspecies-nom.js"
   ],
   "url": "https://github.com/Cpt-Igloo/nations-of-mankind-wfrp4e",
   "manifest": "https://raw.githubusercontent.com/Cpt-Igloo/nations-of-mankind-wfrp4e/main/module.json",
