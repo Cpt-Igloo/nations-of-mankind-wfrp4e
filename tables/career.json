@@ -1,0 +1,1243 @@
+{
+  "name": "Nations of Mankind Random Career",
+  "columns": [
+    "human-albionite-nom",
+    "human-arabyan-nom",
+    "human-breton-noble-nom",
+    "human-breton-lowborn-nom",
+    "human-cathayan-nom",
+    "human-estalian-nom",
+    "human-indan-nom",
+    "human-gospodar-nom",
+    "human-ungol-nom",
+    "human-nipponese-nom",
+    "human-norscan-nom",
+    "human-southlander-nom",
+    "human-strigany-nom",
+    "human-tilean-nom",
+    "human-westerlander-nom"],
+  "die" : "1d100",
+  "extend" : true,
+  "rows": [
+    {
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 2],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 3],
+        "human-estalian-nom" : [1, 3],
+        "human-indan-nom" : [1, 2],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [1, 2],
+        "human-strigany-nom" : [1, 2],
+        "human-tilean-nom" : [1, 3],
+        "human-westerlander-nom" : [1, 1]
+      },
+      "name": "Apothecary"
+    },
+    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [3, 3],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [2, 2],
+        "human-cathayan-nom" : [4, 5],
+        "human-estalian-nom" : [4, 4],
+        "human-indan-nom" : [3, 3],
+        "human-gospodar-nom" : [2, 2],
+        "human-ungol-nom" : [2, 2],
+        "human-nipponese-nom" : [2, 2],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [4, 5],
+        "human-westerlander-nom" : [2, 2]
+      },
+      "name": "Engineer"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [4, 4],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [3, 3],
+        "human-cathayan-nom" : [6, 6],
+        "human-estalian-nom" : [5, 6],
+        "human-indan-nom" : [4, 4],
+        "human-gospodar-nom" : [3, 3],
+        "human-ungol-nom" : [3, 3],
+        "human-nipponese-nom" : [],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [6, 7],
+        "human-westerlander-nom" : [3, 4]
+      },
+      "name": "Lawyer"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [],
+        "human-breton-noble-nom" : [1, 2],
+        "human-breton-lowborn-nom" : [4, 4],
+        "human-cathayan-nom" : [7, 7],
+        "human-estalian-nom" : [7, 7],
+        "human-indan-nom" : [5, 5],
+        "human-gospodar-nom" : [4, 4],
+        "human-ungol-nom" : [4, 4],
+        "human-nipponese-nom" : [3, 3],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [8, 8],
+        "human-westerlander-nom" : [5, 5]
+      },
+      "name": "Nun"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [5, 7],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [5, 5],
+        "human-cathayan-nom" : [8, 10],
+        "human-estalian-nom" : [8, 10],
+        "human-indan-nom" : [6, 8],
+        "human-gospodar-nom" : [5, 5],
+        "human-ungol-nom" : [5, 5],
+        "human-nipponese-nom" : [4, 4],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [9, 9],
+        "human-westerlander-nom" : [6, 8]
+      },
+      "name": "Physician"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [8, 8],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [6, 6],
+        "human-cathayan-nom" : [],
+        "human-estalian-nom" : [11, 12],
+        "human-indan-nom" : [9, 14],
+        "human-gospodar-nom" : [6, 6],
+        "human-ungol-nom" : [6, 6],
+        "human-nipponese-nom" : [5, 5],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [10, 11],
+        "human-westerlander-nom" : [9, 10]
+      },
+      "name": "Priest"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [9, 11],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [7, 7],
+        "human-cathayan-nom" : [11, 12],
+        "human-estalian-nom" : [13, 15],
+        "human-indan-nom" : [15, 17],
+        "human-gospodar-nom" : [7, 7],
+        "human-ungol-nom" : [7, 7],
+        "human-nipponese-nom" : [6, 6],
+        "human-norscan-nom" : [3, 3],
+        "human-southlander-nom" : [3, 3],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [12, 13],
+        "human-westerlander-nom" : [11, 12]
+      },
+      "name": "Scholar"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [12, 12],
+        "human-breton-noble-nom" : [3, 3],
+        "human-breton-lowborn-nom" : [],
+        "human-cathayan-nom" : [13, 13],
+        "human-estalian-nom" : [16, 16],
+        "human-indan-nom" : [18, 18],
+        "human-gospodar-nom" : [],
+        "human-ungol-nom" : [],
+        "human-nipponese-nom" : [7, 7],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [14, 14],
+        "human-westerlander-nom" : [13, 13]
+      },
+      "name": "Wizard"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [13, 13],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [8, 9],
+        "human-cathayan-nom" : [14, 14],
+        "human-estalian-nom" : [17, 17],
+        "human-indan-nom" : [19, 19],
+        "human-gospodar-nom" : [8, 8],
+        "human-ungol-nom" : [8, 8],
+        "human-nipponese-nom" : [8, 8],
+        "human-norscan-nom" : [4, 5],
+        "human-southlander-nom" : [4, 4],
+        "human-strigany-nom" : [3, 3],
+        "human-tilean-nom" : [15, 15],
+        "human-westerlander-nom" : [14, 15]
+      },
+      "name": "Agitator"
+    },    {
+      "range":{
+        "human-albionite-nom" : [2, 5],
+        "human-arabyan-nom" : [14, 16],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [10, 14],
+        "human-cathayan-nom" : [15, 17],
+        "human-estalian-nom" : [18, 20],
+        "human-indan-nom" : [20, 22],
+        "human-gospodar-nom" : [9, 11],
+        "human-ungol-nom" : [9, 11],
+        "human-nipponese-nom" : [9, 11],
+        "human-norscan-nom" : [6, 9],
+        "human-southlander-nom" : [5, 10],
+        "human-strigany-nom" : [4, 6],
+        "human-tilean-nom" : [16, 17],
+        "human-westerlander-nom" : [16, 17]
+      },
+      "name": "Artisan"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [17, 17],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [15, 15],
+        "human-cathayan-nom" : [18, 19],
+        "human-estalian-nom" : [21, 21],
+        "human-indan-nom" : [23, 24],
+        "human-gospodar-nom" : [12, 12],
+        "human-ungol-nom" : [12, 12],
+        "human-nipponese-nom" : [12, 12],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [7, 7],
+        "human-tilean-nom" : [18, 18],
+        "human-westerlander-nom" : [18, 19]
+      },
+      "name": "Beggar"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [18, 18],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [16, 16],
+        "human-cathayan-nom" : [20, 21],
+        "human-estalian-nom" : [22, 22],
+        "human-indan-nom" : [25, 25],
+        "human-gospodar-nom" : [13, 14],
+        "human-ungol-nom" : [13, 14],
+        "human-nipponese-nom" : [13, 13],
+        "human-norscan-nom" : [10, 10],
+        "human-southlander-nom" : [11, 11],
+        "human-strigany-nom" : [8, 8],
+        "human-tilean-nom" : [19, 19],
+        "human-westerlander-nom" : [20, 20]
+      },
+      "name": "Investigator"
+    },    {
+      "range":{
+        "human-albionite-nom" : [6, 6],
+        "human-arabyan-nom" : [19, 20],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [17, 17],
+        "human-cathayan-nom" : [22, 23],
+        "human-estalian-nom" : [23, 23],
+        "human-indan-nom" : [26, 26],
+        "human-gospodar-nom" : [15, 15],
+        "human-ungol-nom" : [15, 15],
+        "human-nipponese-nom" : [14, 14],
+        "human-norscan-nom" : [11, 12],
+        "human-southlander-nom" : [12, 12],
+        "human-strigany-nom" : [9, 9],
+        "human-tilean-nom" : [20, 23],
+        "human-westerlander-nom" : [21, 24]
+      },
+      "name": "Merchant"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [21, 21],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [18, 18],
+        "human-cathayan-nom" : [24, 25],
+        "human-estalian-nom" : [24, 24],
+        "human-indan-nom" : [27, 27],
+        "human-gospodar-nom" : [16, 16],
+        "human-ungol-nom" : [16, 16],
+        "human-nipponese-nom" : [15, 16],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [10, 11],
+        "human-tilean-nom" : [24, 25],
+        "human-westerlander-nom" : [25, 26]
+      },
+      "name": "Rat Catcher"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [22, 26],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [19, 24],
+        "human-cathayan-nom" : [26, 30],
+        "human-estalian-nom" : [25, 27],
+        "human-indan-nom" : [28, 30],
+        "human-gospodar-nom" : [17, 25],
+        "human-ungol-nom" : [17, 25],
+        "human-nipponese-nom" : [17, 20],
+        "human-norscan-nom" : [13, 14],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [26, 30],
+        "human-westerlander-nom" : [27, 30]
+      },
+      "name": "Townsman"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [27, 27],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [25, 26],
+        "human-cathayan-nom" : [31, 31],
+        "human-estalian-nom" : [28, 29],
+        "human-indan-nom" : [31, 31],
+        "human-gospodar-nom" : [26, 28],
+        "human-ungol-nom" : [26, 28],
+        "human-nipponese-nom" : [21, 21],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [13, 13],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [31, 33],
+        "human-westerlander-nom" : []
+      },
+      "name": "Watchman"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [28, 28],
+        "human-breton-noble-nom" : [4, 10],
+        "human-breton-lowborn-nom" : [],
+        "human-cathayan-nom" : [32, 32],
+        "human-estalian-nom" : [30, 30],
+        "human-indan-nom" : [32, 32],
+        "human-gospodar-nom" : [29, 29],
+        "human-ungol-nom" : [29, 29],
+        "human-nipponese-nom" : [23, 23],
+        "human-norscan-nom" : [15, 15],
+        "human-southlander-nom" : [14, 14],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [34, 34],
+        "human-westerlander-nom" : [31, 31]
+      },
+      "name": "Advisor"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [29, 30],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [27, 27],
+        "human-cathayan-nom" : [33, 34],
+        "human-estalian-nom" : [31, 31],
+        "human-indan-nom" : [33, 33],
+        "human-gospodar-nom" : [30, 30],
+        "human-ungol-nom" : [30, 30],
+        "human-nipponese-nom" : [24, 25],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [35, 37],
+        "human-westerlander-nom" : [32, 32]
+      },
+      "name": "Artist"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [],
+        "human-cathayan-nom" : [],
+        "human-estalian-nom" : [32, 32],
+        "human-indan-nom" : [],
+        "human-gospodar-nom" : [31, 31],
+        "human-ungol-nom" : [31, 31],
+        "human-nipponese-nom" : [],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [12, 12],
+        "human-tilean-nom" : [38, 38],
+        "human-westerlander-nom" : [33, 33]
+      },
+      "name": "Duellist"
+    },    {
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [31, 31],
+        "human-breton-noble-nom" : [11, 15],
+        "human-breton-lowborn-nom" : [],
+        "human-cathayan-nom" : [35, 35],
+        "human-estalian-nom" : [33, 33],
+        "human-indan-nom" : [34, 34],
+        "human-gospodar-nom" : [32, 32],
+        "human-ungol-nom" : [32, 32],
+        "human-nipponese-nom" : [26, 26],
+        "human-norscan-nom" : [16, 16],
+        "human-southlander-nom" : [15, 16],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [39, 39],
+        "human-westerlander-nom" : [34, 34]
+      },
+      "name": "Envoy"
+    },    {
+      "range":{
+        "human-albionite-nom" : [7, 7],
+        "human-arabyan-nom" : [32, 32],
+        "human-breton-noble-nom" : [16, 30],
+        "human-breton-lowborn-nom" : [],
+        "human-cathayan-nom" : [36, 36],
+        "human-estalian-nom" : [34, 34],
+        "human-indan-nom" : [35, 35],
+        "human-gospodar-nom" : [33, 33],
+        "human-ungol-nom" : [33, 33],
+        "human-nipponese-nom" : [27, 27],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [17, 17],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [40, 40],
+        "human-westerlander-nom" : []
+      },
+      "name": "Noble"
+    },
+    {
+      "range":{
+        "human-albionite-nom" : [8, 8],
+        "human-arabyan-nom" : [33, 33],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [28, 29],
+        "human-cathayan-nom" : [37, 38],
+        "human-estalian-nom" : [35, 35],
+        "human-indan-nom" : [36, 37],
+        "human-gospodar-nom" : [34, 34],
+        "human-ungol-nom" : [34, 34],
+        "human-nipponese-nom" : [28, 29],
+        "human-norscan-nom" : [17, 18],
+        "human-southlander-nom" : [18, 20],
+        "human-strigany-nom" : [13, 14],
+        "human-tilean-nom" : [41, 41],
+        "human-westerlander-nom" : [35, 36]
+      },
+      "name": "Servant"
+    },{
+      "range":{
+        "human-albionite-nom" : [9, 9],
+        "human-arabyan-nom" : [34, 35],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [30, 30],
+        "human-cathayan-nom" : [39, 39],
+        "human-estalian-nom" : [36, 36],
+        "human-indan-nom" : [38, 38],
+        "human-gospodar-nom" : [35, 35],
+        "human-ungol-nom" : [35, 35],
+        "human-nipponese-nom" : [28, 29],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [15, 16],
+        "human-tilean-nom" : [42, 42],
+        "human-westerlander-nom" : [37, 37]
+      },
+      "name": "Spy"
+    },{
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [36, 36],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [31, 31],
+        "human-cathayan-nom" : [40, 40],
+        "human-estalian-nom" : [37,37],
+        "human-indan-nom" : [39, 39],
+        "human-gospodar-nom" : [36, 36],
+        "human-ungol-nom" : [36, 36],
+        "human-nipponese-nom" : [31, 31],
+        "human-norscan-nom" : [19, 19],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [43, 43],
+        "human-westerlander-nom" : [38, 38]
+      },
+      "name": "Warden"
+    },{
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [37, 37],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [32, 32],
+        "human-cathayan-nom" : [41, 41],
+        "human-estalian-nom" : [38, 38],
+        "human-indan-nom" : [40, 40],
+        "human-gospodar-nom" : [37, 37],
+        "human-ungol-nom" : [37, 37],
+        "human-nipponese-nom" : [32, 32],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [44, 44],
+        "human-westerlander-nom" : [39, 39]
+      },
+      "name": "Bailiff"
+    },{
+      "range":{
+        "human-albionite-nom" : [10, 10],
+        "human-arabyan-nom" : [],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [33, 33],
+        "human-cathayan-nom" : [42, 42],
+        "human-estalian-nom" : [39, 39],
+        "human-indan-nom" : [41, 41],
+        "human-gospodar-nom" : [38, 38],
+        "human-ungol-nom" : [38, 38],
+        "human-nipponese-nom" : [33, 33],
+        "human-norscan-nom" : [20, 21],
+        "human-southlander-nom" : [21, 22],
+        "human-strigany-nom" : [17, 18],
+        "human-tilean-nom" : [45, 45],
+        "human-westerlander-nom" : [40, 40]
+      },
+      "name": "Hedge Witch"
+    },{
+      "range":{
+        "human-albionite-nom" : [11, 12],
+        "human-arabyan-nom" : [38, 38],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [34, 35],
+        "human-cathayan-nom" : [43, 43],
+        "human-estalian-nom" : [40, 40],
+        "human-indan-nom" : [42, 42],
+        "human-gospodar-nom" : [39, 39],
+        "human-ungol-nom" : [39, 39],
+        "human-nipponese-nom" : [34, 34],
+        "human-norscan-nom" : [22, 23],
+        "human-southlander-nom" : [23, 24],
+        "human-strigany-nom" : [19, 20],
+        "human-tilean-nom" : [46, 46],
+        "human-westerlander-nom" : [41, 41]
+      },
+      "name": "Herbalist"
+    },{
+      "range":{
+        "human-albionite-nom" : [13, 20],
+        "human-arabyan-nom" : [39, 39],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [36, 38],
+        "human-cathayan-nom" : [44, 44],
+        "human-estalian-nom" : [41, 41],
+        "human-indan-nom" : [43, 43],
+        "human-gospodar-nom" : [40, 40],
+        "human-ungol-nom" : [40, 40],
+        "human-nipponese-nom" : [35, 35],
+        "human-norscan-nom" : [24, 31],
+        "human-southlander-nom" : [25, 31],
+        "human-strigany-nom" : [21, 23],
+        "human-tilean-nom" : [47, 47],
+        "human-westerlander-nom" : [42, 42]
+      },
+      "name": "Hunter"
+    },{
+      "range":{
+        "human-albionite-nom" : [21, 21],
+        "human-arabyan-nom" : [40, 40],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [39, 40],
+        "human-cathayan-nom" : [45, 45],
+        "human-estalian-nom" : [42, 42],
+        "human-indan-nom" : [44, 44],
+        "human-gospodar-nom" : [41, 41],
+        "human-ungol-nom" : [41, 41],
+        "human-nipponese-nom" : [36, 36],
+        "human-norscan-nom" : [31, 32],
+        "human-southlander-nom" : [32, 32],
+        "human-strigany-nom" : [24, 26],
+        "human-tilean-nom" : [48, 48],
+        "human-westerlander-nom" : []
+      },
+      "name": "Miner"
+    },{
+      "range":{
+        "human-albionite-nom" : [22, 22],
+        "human-arabyan-nom" : [41, 41],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [41, 41],
+        "human-cathayan-nom" : [46, 46],
+        "human-estalian-nom" : [43, 43],
+        "human-indan-nom" : [45, 45],
+        "human-gospodar-nom" : [42, 42],
+        "human-ungol-nom" : [42, 42],
+        "human-nipponese-nom" : [37, 37],
+        "human-norscan-nom" : [33, 33],
+        "human-southlander-nom" : [33, 33],
+        "human-strigany-nom" : [27, 30],
+        "human-tilean-nom" : [49, 49],
+        "human-westerlander-nom" : [43, 43]
+      },
+      "name": "Mystic"
+    },{
+      "range":{
+        "human-albionite-nom" : [23, 24],
+        "human-arabyan-nom" : [42, 42],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [42, 43],
+        "human-cathayan-nom" : [47, 47],
+        "human-estalian-nom" : [44, 44],
+        "human-indan-nom" : [46, 46],
+        "human-gospodar-nom" : [43, 43],
+        "human-ungol-nom" : [43, 43],
+        "human-nipponese-nom" : [38, 38],
+        "human-norscan-nom" : [34, 34],
+        "human-southlander-nom" : [34, 38],
+        "human-strigany-nom" : [31, 31],
+        "human-tilean-nom" : [50, 50],
+        "human-westerlander-nom" : [44, 44]
+      },
+      "name": "Scout"
+    },{
+      "range":{
+        "human-albionite-nom" : [25, 45],
+        "human-arabyan-nom" : [43, 48],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [44, 55],
+        "human-cathayan-nom" : [48, 50],
+        "human-estalian-nom" : [45, 48],
+        "human-indan-nom" : [47, 52],
+        "human-gospodar-nom" : [44, 48],
+        "human-ungol-nom" : [44, 48],
+        "human-nipponese-nom" : [39, 44],
+        "human-norscan-nom" : [35, 42],
+        "human-southlander-nom" : [39, 50],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [51, 53],
+        "human-westerlander-nom" : [45, 46]
+      },
+      "name": "Villager"
+    },{
+      "range":{
+        "human-albionite-nom" : [46, 46],
+        "human-arabyan-nom" : [49, 49],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [56, 56],
+        "human-cathayan-nom" : [51, 51],
+        "human-estalian-nom" : [49, 49],
+        "human-indan-nom" : [],
+        "human-gospodar-nom" : [49, 50],
+        "human-ungol-nom" : [49, 50],
+        "human-nipponese-nom" : [45, 45],
+        "human-norscan-nom" : [43, 43],
+        "human-southlander-nom" : [51, 51],
+        "human-strigany-nom" : [32, 32],
+        "human-tilean-nom" : [54, 54],
+        "human-westerlander-nom" : [47, 47]
+      },
+      "name": "Bounty Hunter"
+    },{
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [50, 50],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [57, 57],
+        "human-cathayan-nom" : [52, 52],
+        "human-estalian-nom" : [50, 50],
+        "human-indan-nom" : [53, 53],
+        "human-gospodar-nom" : [51, 51],
+        "human-ungol-nom" : [51, 51],
+        "human-nipponese-nom" : [46, 46],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [33, 40],
+        "human-tilean-nom" : [55, 55],
+        "human-westerlander-nom" : [48, 48]
+      },
+      "name": "Coachman"
+    },{
+      "range":{
+        "human-albionite-nom" : [47, 50],
+        "human-arabyan-nom" : [51, 52],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [58, 59],
+        "human-cathayan-nom" : [53, 54],
+        "human-estalian-nom" : [51, 52],
+        "human-indan-nom" : [54, 56],
+        "human-gospodar-nom" : [52, 52],
+        "human-ungol-nom" : [52, 52],
+        "human-nipponese-nom" : [47, 47],
+        "human-norscan-nom" : [44, 44],
+        "human-southlander-nom" : [52, 55],
+        "human-strigany-nom" : [41, 50],
+        "human-tilean-nom" : [56, 58],
+        "human-westerlander-nom" : [49, 50]
+      },
+      "name": "Entertainer"
+    },{
+      "range":{
+        "human-albionite-nom" : [],
+        "human-arabyan-nom" : [],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [],
+        "human-cathayan-nom" : [],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [],
+        "human-gospodar-nom" : [],
+        "human-ungol-nom" : [],
+        "human-nipponese-nom" : [],
+        "human-norscan-nom" : [],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [],
+        "human-tilean-nom" : [],
+        "human-westerlander-nom" : []
+      },
+      "name": "Flagellant"
+    },{
+      "range":{
+        "human-albionite-nom" : [51, 53],
+        "human-arabyan-nom" : [53, 53],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [60, 60],
+        "human-cathayan-nom" : [55, 55],
+        "human-estalian-nom" : [53, 53],
+        "human-indan-nom" : [57, 57],
+        "human-gospodar-nom" : [53, 53],
+        "human-ungol-nom" : [53, 53],
+        "human-nipponese-nom" : [48, 48],
+        "human-norscan-nom" : [45, 45],
+        "human-southlander-nom" : [56, 57],
+        "human-strigany-nom" : [51, 52],
+        "human-tilean-nom" : [59, 59],
+        "human-westerlander-nom" : [51, 51]
+      },
+      "name": "Messenger"
+    },{
+      "range":{
+        "human-albionite-nom" : [54, 58],
+        "human-arabyan-nom" : [54, 56],
+        "human-breton-noble-nom" : [],
+        "human-breton-lowborn-nom" : [61, 63],
+        "human-cathayan-nom" : [56, 57],
+        "human-estalian-nom" : [54, 55],
+        "human-indan-nom" : [58, 60],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Pedlar"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Road warden"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Witch Hunter"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Boatman"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Huffer"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Riverwarden"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Riverwoman"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Seaman"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Smuggler"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Stevedore"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Wrecker"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Bawd"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Charlatan"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Fence"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Grave Robber"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Outlaw"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Racketeer"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Thief"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Witch"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Cavalryman"
+    },
+    {
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Guard"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Knight"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Pit Fighter"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Protagonist"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Soldier"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Slayer"
+    },{
+      "range":{
+        "human-albionite-nom" : [1, 1],
+        "human-arabyan-nom" : [1, 1],
+        "human-breton-noble-nom" : [1, 1],
+        "human-breton-lowborn-nom" : [1, 1],
+        "human-cathayan-nom" : [1, 2],
+        "human-estalian-nom" : [],
+        "human-indan-nom" : [1, 1],
+        "human-gospodar-nom" : [1, 1],
+        "human-ungol-nom" : [1, 1],
+        "human-nipponese-nom" : [1, 1],
+        "human-norscan-nom" : [1, 2],
+        "human-southlander-nom" : [],
+        "human-strigany-nom" : [1, 1],
+        "human-tilean-nom" : [1, 2],
+        "human-westerlander-nom" : []
+      },
+      "name": "Warrior Priest"
+    }
+  ]
+}

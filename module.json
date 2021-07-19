@@ -1,22 +1,36 @@
 {
-   "name": "nations-of-mankind-wfrp4e",
-   "title": "Nations of Mankind [WFRP4]",
-   "description": "This module adapts Big Boss' unofficial supplement Nations of Mankind to Foundry VTT's wfrp4e system. It adds several new origins for humans from all across the old world, as well as new careers & talents.",
-   "author": "Seseta, Noober",
-   "authors" : [
-     {
-       "name": "Noober",
-       "discord": "Noober#1540"
-     },
-     {
-       "name": "Seseta"
-     }
-   ],
-   "systems": ["wfrp4e"],
-   "version": "1.0.0",
-   "minimumCoreVersion": "0.7.0",
-   "compatibleCoreVersion":"0.7.10",
-   "packs": [
+  "name": "nations-of-mankind-wfrp4e",
+  "title": "Nations of Mankind [WFRP4]",
+  "description": "This module adapts Big Boss' unofficial supplement Nations of Mankind to Foundry VTT's wfrp4e system. It adds several new origins for humans from all across the old world, as well as new careers & talents.",
+  "author": "Seseta, Noober",
+  "authors": [
+    {
+      "name": "Noober",
+      "discord": "Noober#1540"
+    },
+    {
+      "name": "Seseta"
+    }
+  ],
+  "url": "https://github.com/Cpt-Igloo/nations-of-mankind-wfrp4e",
+  "flags": {},
+  "version": "1.0.1",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.8",
+  "scripts": [
+    "/scripts/qualities-nom.js",
+    "/scripts/subspecies-nom.js"
+  ],
+  "esmodules": [],
+  "styles": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [
     {
       "name": "trappings-nom",
       "label": "Trappings (Nations of Mankind)",
@@ -24,7 +38,10 @@
       "entity": "Item",
       "module": "nations-of-mankind-wfrp4e",
       "system": "wfrp4e",
-      "tags": ["trapping"]
+      "tags": [
+        "trapping"
+      ],
+      "private": false
     },
     {
       "name": "careers-nom",
@@ -33,7 +50,10 @@
       "entity": "Item",
       "module": "nations-of-mankind-wfrp4e",
       "system": "wfrp4e",
-      "tags" : ["career"]
+      "tags": [
+        "career"
+      ],
+      "private": false
     },
     {
       "name": "bestiary-nom",
@@ -41,7 +61,8 @@
       "path": "packs/bestiary-nom.db",
       "entity": "Actor",
       "module": "nations-of-mankind-wfrp4e",
-      "system": "wfrp4e"
+      "system": "wfrp4e",
+      "private": false
     },
     {
       "name": "journalentries-nom",
@@ -49,7 +70,8 @@
       "path": "packs/journalentries-nom.db",
       "entity": "JournalEntry",
       "module": "nations-of-mankind-wfrp4e",
-      "system": "wfrp4e"
+      "system": "wfrp4e",
+      "private": false
     },
     {
       "name": "careerentries-nom",
@@ -57,57 +79,65 @@
       "path": "packs/careerentries-nom.db",
       "entity": "JournalEntry",
       "module": "nations-of-mankind-wfrp4e",
-      "system": "wfrp4e"
+      "system": "wfrp4e",
+      "private": false
     },
     {
-        "name": "spells-nom",
-        "label": "Spells (Nations of Mankind)",
-        "path": "packs/spells-nom.db",
-        "entity": "Item",
-        "system": "wfrp4e",
-        "module": "nations-of-mankind-wfrp4e",
-        "tags": ["spell"]
+      "name": "spells-nom",
+      "label": "Spells (Nations of Mankind)",
+      "path": "packs/spells-nom.db",
+      "entity": "Item",
+      "system": "wfrp4e",
+      "module": "nations-of-mankind-wfrp4e",
+      "tags": [
+        "spell"
+      ],
+      "private": false
     },
     {
-        "name": "talents-nom",
-        "label": "Talents (Nations of Mankind)",
-        "path": "packs/talents-nom.db",
-        "entity": "Item",
-        "system": "wfrp4e",
-        "module": "nations-of-mankind-wfrp4e",
-        "tags": ["talent"]
+      "name": "talents-nom",
+      "label": "Talents (Nations of Mankind)",
+      "path": "packs/talents-nom.db",
+      "entity": "Item",
+      "system": "wfrp4e",
+      "module": "nations-of-mankind-wfrp4e",
+      "tags": [
+        "talent"
+      ],
+      "private": false
     },
     {
-        "name": "veterantalents-nom",
-        "label": "Veteran Talents (Nations of Mankind)",
-        "path": "packs/vettalents-nom.db",
-        "entity": "Item",
-        "system": "wfrp4e",
-        "module": "nations-of-mankind-wfrp4e",
-        "tags": ["talent"]
+      "name": "veterantalents-nom",
+      "label": "Veteran Talents (Nations of Mankind)",
+      "path": "packs/vettalents-nom.db",
+      "entity": "Item",
+      "system": "wfrp4e",
+      "module": "nations-of-mankind-wfrp4e",
+      "tags": [
+        "talent"
+      ],
+      "private": false
     },
     {
-        "name": "prayers-nom",
-        "label": "Prayers (Nations of Mankind)",
-        "path": "./packs/prayers-nom.db",
-        "entity": "Item",
-        "system": "wfrp4e",
-        "module": "wfrp4e-core",
-        "tags": ["prayer"]
+      "name": "prayers-nom",
+      "label": "Prayers (Nations of Mankind)",
+      "path": "./packs/prayers-nom.db",
+      "entity": "Item",
+      "system": "wfrp4e",
+      "module": "wfrp4e-core",
+      "tags": [
+        "prayer"
+      ],
+      "private": false
     }
   ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
+  "system": [
+    "wfrp4e"
   ],
-  "scripts": [
-    "/scripts/qualities-nom.js",
-    "/scripts/subspecies-nom.js"
-  ],
-  "url": "https://github.com/Cpt-Igloo/nations-of-mankind-wfrp4e",
+  "dependencies": [],
+  "socket": false,
   "manifest": "https://raw.githubusercontent.com/Cpt-Igloo/nations-of-mankind-wfrp4e/main/module.json",
-  "download": "https://github.com/Cpt-Igloo/nations-of-mankind-wfrp4e/archive/refs/heads/main.zip"
- }
+  "download": "https://github.com/Cpt-Igloo/nations-of-mankind-wfrp4e/archive/refs/heads/main.zip",
+  "protected": false,
+  "coreTranslation": false
+}
