@@ -14,9 +14,10 @@
   ],
   "url": "https://github.com/Cpt-Igloo/nations-of-mankind-wfrp4e",
   "flags": {},
-  "version": "1.0.1",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.8",
+  "version": "1.1.0",
+  "minimumCoreVersion": "0.8.4",
+  "compatibleCoreVersion": "9",
+  "system": ["wfrp4e"],
   "scripts": [
     "/scripts/qualities-nom.js",
     "/scripts/subspecies-nom.js"
@@ -35,7 +36,7 @@
       "name": "trappings-nom",
       "label": "Trappings (Nations of Mankind)",
       "path": "packs/trappings-nom.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "nations-of-mankind-wfrp4e",
       "system": "wfrp4e",
       "tags": [
@@ -47,7 +48,7 @@
       "name": "careers-nom",
       "label": "Careers (Nations of Mankind)",
       "path": "packs/careers-nom.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "nations-of-mankind-wfrp4e",
       "system": "wfrp4e",
       "tags": [
@@ -59,7 +60,7 @@
       "name": "bestiary-nom",
       "label": "Bestiary (Nations of Mankind)",
       "path": "packs/bestiary-nom.db",
-      "entity": "Actor",
+      "type": "Actor",
       "module": "nations-of-mankind-wfrp4e",
       "system": "wfrp4e",
       "private": false
@@ -68,7 +69,7 @@
       "name": "journalentries-nom",
       "label": "Nations of Mankind Additional Rules",
       "path": "packs/journalentries-nom.db",
-      "entity": "JournalEntry",
+      "type": "JournalEntry",
       "module": "nations-of-mankind-wfrp4e",
       "system": "wfrp4e",
       "private": false
@@ -77,7 +78,7 @@
       "name": "careerentries-nom",
       "label": "Nations of Mankind Careers Description",
       "path": "packs/careerentries-nom.db",
-      "entity": "JournalEntry",
+      "type": "JournalEntry",
       "module": "nations-of-mankind-wfrp4e",
       "system": "wfrp4e",
       "private": false
@@ -86,7 +87,7 @@
       "name": "spells-nom",
       "label": "Spells (Nations of Mankind)",
       "path": "packs/spells-nom.db",
-      "entity": "Item",
+      "type": "Item",
       "system": "wfrp4e",
       "module": "nations-of-mankind-wfrp4e",
       "tags": [
@@ -98,7 +99,7 @@
       "name": "talents-nom",
       "label": "Talents (Nations of Mankind)",
       "path": "packs/talents-nom.db",
-      "entity": "Item",
+      "type": "Item",
       "system": "wfrp4e",
       "module": "nations-of-mankind-wfrp4e",
       "tags": [
@@ -110,7 +111,7 @@
       "name": "veterantalents-nom",
       "label": "Veteran Talents (Nations of Mankind)",
       "path": "packs/vettalents-nom.db",
-      "entity": "Item",
+      "type": "Item",
       "system": "wfrp4e",
       "module": "nations-of-mankind-wfrp4e",
       "tags": [
@@ -122,13 +123,21 @@
       "name": "prayers-nom",
       "label": "Prayers (Nations of Mankind)",
       "path": "./packs/prayers-nom.db",
-      "entity": "Item",
+      "type": "Item",
       "system": "wfrp4e",
       "module": "wfrp4e-core",
       "tags": [
         "prayer"
       ],
       "private": false
+    },
+    {
+      "label": "Tables (Nations of Mankind)",
+      "type": "RollTable",
+      "name": "tables-nom",
+      "path": "packs/tables-nom.db",
+      "system": "wfrp4e",
+      "module": "nations-of-mankind-wfrp4e"
     }
   ],
   "system": [
